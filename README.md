@@ -1,4 +1,5 @@
 ##Mohankumar Swaminathan website
+[![Build Status](https://travis-ci.org/smartmohi/smartmohi.github.io.png?branch=master)](https://travis-ci.org/smartmohi/smartmohi.github.io)
 ================
 
 My websites [www.smartmohi.com](http://sicanstudios.com/post/guide-hosting-website-dropbox-github) is hosted on github.
